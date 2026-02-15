@@ -359,19 +359,19 @@ html {
     text-decoration: none;
     font-weight: 500;
     font-size: 1rem;
-    border: 1px solid  #3498db;
+    border: 1px solid  #3498db !important;
     transition: all 0.3s ease;
     padding: 10px;
-    border-radius: 12px;
+    border-radius: 12px !important;
     color: #fff;
 }
 
 .read-more:hover {
     /* color: #3498db; */
-    background-color: #165076;
+    background-color: #165076 !important;
     border-color:  #165076;
     transform: scale(1.1) !important;
-    box-shadow: 0px 2px 4px rgba(32, 24, 65, 0.345) ;
+    box-shadow: 0px 2px 4px rgba(32, 24, 65, 0.345) !important ;
 }
 
  .plans {
