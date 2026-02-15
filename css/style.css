@@ -616,7 +616,7 @@ html {
     }
     
     #hero h3 {
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
     
     .about h6 {
@@ -751,11 +751,13 @@ html {
     }
     
     #hero h1 {
-        font-size: 1.8rem;
+        font-size: 2rem !important;
     }
     
     #hero h3 {
-        font-size: 1.1rem;
+        font-size: 1.6rem !important;
+         -webkit-text-stroke: 0px 0px !important;
+         font-weight: 500 !important;
     }
     
     .about {
